@@ -3,9 +3,9 @@ Customer Service Requests Analysis of NYC
 
 Conclusions : The analysis of the dataset reveals the top 10 types of complaints reported in New York City, along with their respective counts:
 
-Blocked Driveway: With a staggering count of 100,624 complaints, "Blocked Driveway" is the most frequently reported issue. This suggests that parking-related problems, specifically vehicles blocking driveways, are a major concern for residents.
+1. Blocked Driveway: With a staggering count of 100,624 complaints, "Blocked Driveway" is the most frequently reported issue. This suggests that parking-related problems, specifically vehicles blocking driveways, are a major concern for residents.
 
-Illegal Parking: "Illegal Parking" ranks second with 91,716 complaints. This further underscores the significance of parking-related issues in the city.
+2. **Illegal Parking: "Illegal Parking" ranks second with 91,716 complaints. This further underscores the significance of parking-related issues in the city.
 
 Noise - Street/Sidewalk: Noise disturbances on streets and sidewalks, such as loud gatherings or construction, are the third most common complaint type, with 51,139 reports.
 
