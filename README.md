@@ -1,10 +1,10 @@
-# NYC 311 Data Analysis
+# 🏙 NYC 311 Data Analysis
 
-## Customer Service Requests Analysis of NYC
+## ☎️ Customer Service Requests Analysis of NYC
 
 This GitHub repository contains an analysis of customer service requests reported in New York City, based on the NYC 311 dataset. The analysis aims to provide insights into the most common types of complaints, their respective counts, and the variation in response times for different complaint types.
 
-### Top 10 Complaint Types
+### 🔟 Top 10 Complaint Types
 
 The analysis reveals the top 10 types of complaints reported in New York City, along with their respective counts:
 
@@ -28,7 +28,7 @@ The analysis reveals the top 10 types of complaints reported in New York City, a
 
 10. **Vending:** The tenth most common complaint type is "Vending," which may involve unlicensed street vending or related issues, with 4,185 complaints.
 
-### Key Insights
+### 🗝 Key Insights
 
 The analysis provides several key insights:
 
@@ -40,7 +40,7 @@ The analysis provides several key insights:
 
 Understanding these top complaint types is essential for city officials and agencies to allocate resources effectively, address priority concerns, and enhance the overall urban experience for residents. It also highlights the need for proactive measures and policies to mitigate these common issues and improve the livability of New York City.
 
-### Response Times Analysis
+### 🗣 Response Times Analysis
 
 The analysis also examines the response times for different types of complaints reported in New York City:
 
